@@ -1,2 +1,5 @@
 chest_xray/
 *.zip
+data_aug/
+data_pca/
+data_raw/
